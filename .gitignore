@@ -1,2 +1,7 @@
 src/
 Task/
+yolov5/
+runs/
+test.ipynb
+test2.ipynb
+yolov8n.pt
